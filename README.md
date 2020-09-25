@@ -92,7 +92,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Keyzer99)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Keyzer98)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
