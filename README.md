@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[<img src="https://open.spotify.com/user/739lu6v99dae0cmjj8i0qwntg" alt="Eyizon Spotify Playing" width="350" />](https://open.spotify.com/user/739lu6v99dae0cmjj8i0qwntg)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/250px-Spotify_logo_with_text.svg.png" alt="Eyizon Spotify Playing" width="350" />](https://open.spotify.com/user/739lu6v99dae0cmjj8i0qwntg)
 
 ### Connect with me:
 
