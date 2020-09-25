@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Keyzer Spotify Playing" width="350" />](https://open.spotify.com/user/739lu6v99dae0cmjj8i0qwntg)
+[<img src="https://now-playing-Eyizon.vercel.app/api/spotify-playing" alt="Eyizon Spotify Playing" width="350" />](https://open.spotify.com/user/739lu6v99dae0cmjj8i0qwntg)
 
 ### Connect with me:
 
