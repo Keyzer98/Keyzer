@@ -1,6 +1,6 @@
 ### Hi there, I'm Keyzer - aka [K][website] 👋
 
-[![Website](https://avatars0.githubusercontent.com/u/70778164?s=400&u=ceea902cddd9c9743ae6922099a3e0792c780984&v=4)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=Keyzer.com&style=for-the-badge)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student,Programmer,     Developer!
