@@ -5,7 +5,7 @@
 
 ## I'm a Student,Programmer,     Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [K Studios][website]!
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators,programmer and developer
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more applications
